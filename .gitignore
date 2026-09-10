@@ -4,3 +4,4 @@ Debug/
 *.filters
 *.user
 *.exe
+output/
